@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chista0x
+- 👀 I’m interested in Blockchain
+- 🌱 I’m always learning
+- 💞️ I’m looking to collaborate on blockchain projects
+- 📫 You can reach me chista0x@gmail.com
