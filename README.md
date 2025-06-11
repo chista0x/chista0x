@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chista0x
 - 👀 I’m interested in Blockchain
 - 🌱 I’m always learning
-- 💞️ I’m looking to collaborate on blockchain projects
+- 💞️ I am a part of the Quill Vigilant Squad, an elite group of professionals dedicated to Web3 project security.
 - 📫 You can reach me chista0x@gmail.com
 - My Web2 Github Profile:   [EbiPenMan](https://github.com/EbiPenMan)
